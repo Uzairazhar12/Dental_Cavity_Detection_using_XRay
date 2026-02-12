@@ -105,7 +105,7 @@ def predict(model, image):
     
     # Get result
     if prediction > 0.5:
-        result = "Cavity Detected"
+        result = "Cavity Detect"
         confidence = prediction * 100
         is_cavity = True
     else:
@@ -126,7 +126,7 @@ def main():
     model = load_trained_model()
     
     if model is None:
-        st.error("⚠️ Model not found! Please train the model first.")
+        st.error("⚠️ Model not found!Can you please train the model first.")
         st.info("""
         **To train the model:**
         1. Prepare your dataset in the `data/` folder

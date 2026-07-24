@@ -9,7 +9,7 @@ Dental Cavity Detection using X-Rays/
 ├── data/
 │   ├── train/
 │   │   ├── cavity/      # Training images with cavities
-│   │   └── normal/      # Normal training images
+│   │   └── normal/      # Normal training
 │   └── validation/
 │       ├── cavity/      # Validation images with cavities
 │       └── normal/      # Normal validation images

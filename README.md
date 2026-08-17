@@ -24,7 +24,7 @@ Dental Cavity Detection using X-Rays/
 
 ## 🚀 Installation
 
-### Step 1: Clone nad or Download the Project
+### Step 1: Clone na or Download the Project
 
 Download or clone this project to your local machine.
 

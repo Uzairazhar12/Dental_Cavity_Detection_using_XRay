@@ -31,7 +31,7 @@ st.markdown("""
     .main-header {
         text-align: center;
         color: #1E88E5;
-        padding: hh20px;
+        padding: 20px;
     }
     .result-box {
         padding: 20px;

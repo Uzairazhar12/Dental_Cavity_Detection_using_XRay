@@ -1,6 +1,6 @@
 """
 Dental Cavity Detection - Prediction Script
-This script loads the gggbtrained gggmodel and makes predictions on new X-ray images.
+This script loads the btrained gggmodel and makes predictions on new X-ray images.
 """
 
 import os

@@ -1,6 +1,6 @@
 """
 Dental Cavity Detection - Prediction Script
-This script loads the btrained model and makes predictions on new X-ray images.
+This script loads the trained model and makes predictions on new X-ray images.
 """
 
 import os

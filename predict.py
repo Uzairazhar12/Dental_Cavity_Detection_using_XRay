@@ -1,4 +1,4 @@
-"""gg
+"""
 Dental Cavity Detection - Prediction Script
 This script loads the trained model and makes predictions on new X-ray images.
 """
